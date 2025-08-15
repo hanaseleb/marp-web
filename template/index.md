@@ -2,7 +2,7 @@
 marp: true
 theme: yKicchan
 paginate: true
-image: https://yKicchan.github.io/awesome-marp-template/{{PATH}}/index.png
+image: https://hanaseleb.github.io/marp-web/img/index.png
 title:
 description:
 keywords:
