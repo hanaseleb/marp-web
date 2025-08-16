@@ -2,6 +2,10 @@
 marp: true
 theme: hanaseleb
 paginate: true
+<<<<<<< HEAD
+=======
+image: https://hanaseleb.github.io/marp-web/img/index.png
+>>>>>>> 5c3d27dc9f9940bbbfeb8886ae09b770e7acf9a9
 title:
 image: https://hanaseleb.github.io/marp-web/{{PATH}}/index.png
 description:
