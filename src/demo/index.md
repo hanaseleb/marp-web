@@ -1,8 +1,8 @@
 ---
 marp: true
-theme: yKicchan
+theme: hanaseleb
 paginate: true
-image: https://yKicchan.github.io/awesome-marp-template/demo/index.png
+image: https://hanaseleb.github.io/marp-web/demo/index.png
 title: Demo slide
 description: Preview test of slides created with Marp.
 keywords: Marp
@@ -14,7 +14,7 @@ keywords: Marp
 
 ![bg right w:256](./images/marp.png)
 
-<!-- _footer: "[Repository](https://github.com/yKicchan/awesome-marp-template)" -->
+<!-- _footer: "[Repository](https://github.com/hanaseleb/marp-web)" -->
 <!-- _paginate: false -->
 
 ---

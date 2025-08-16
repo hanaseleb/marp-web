@@ -56,13 +56,13 @@ replace_repository_name_target_files=(
 echo -e "Replacing the GitHub ID..."
 for file in "${replace_username_target_files[@]}"; do
   echo -e "in ${CYAN}${file}${OFF}"
-  sed -i '' "s|${OLD_USERNAME}|$github_id|g" "$file"
+  sed -i "s|${OLD_USERNAME}|$github_id|g" "$file"
 done
 echo ""
 echo -e "Replacing the repository name..."
 for file in "${replace_repository_name_target_files[@]}"; do
   echo -e "in ${CYAN}${file}${OFF}"
-  sed -i '' "s|${OLD_REPOSITORY_NAME}|$repository_name|g" "$file"
+  sed -i "s|${OLD_REPOSITORY_NAME}|$repository_name|g" "$file"
 done
 echo ""
 echo -e "${GREEN}All Done!${OFF}"
